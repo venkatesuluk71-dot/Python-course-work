@@ -1,0 +1,36 @@
+LIST
+
+  List is a collection of elements enclosed in square braces[]
+
+LIST OPERATIONS:
+
+ Concatenation
+ repetition
+ indexing
+ slicing
+ membership
+ 
+LIST METHODS:
+
+ max()
+ min()
+ len()
+ sorted()
+ sum()
+list()
+
+LIST MODIFICATION:
+
+.append()
+var.extend()
+var.pop():delete last element of list
+var.pop(index):delete particular indexed element
+var.clear()
+del var[index]
+var.index()
+var.count()
+copy()
+any()
+all()
+var.sort()
+var.reverse()
